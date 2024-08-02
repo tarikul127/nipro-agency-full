@@ -1,0 +1,11 @@
+pt sans
+bold 
+reg 
+font--------------
+
+font-family: "PT Sans", sans-serif;
+
+color-----------
+black #010101
+ash   #898989
+yellow #fcbd00
